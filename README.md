@@ -2,6 +2,7 @@
 
 ### Introduction
 Quantified Self is a Mod 4 Project at the Turing School of Software & Design. It is designed to act as an API micro-service for a calorie tracking app. A user can create an account and track their total calories for each meal they've consumed.
+Deployed Base URL: https://quantified-self1811.herokuapp.com/
 
 ### Local Setup
 1. `Clone` down this repo
